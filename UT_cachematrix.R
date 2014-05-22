@@ -2,6 +2,7 @@
 ## Title    : Unit tests for Caching inverse of a matrix
 ## Author   : Ambika
 ## Date     : May-2014
+## Notes    : Different set of unit tests
 ##############################################################################
 
 ### removing all the variables in the environment/workspace ###
